@@ -1,0 +1,11 @@
+C:\Users\uddha\OneDrive\Desktop\Stuff\Programming\Rust\guessing_game\target\debug\deps\libquote-348ca59260e5f0db.rmeta: C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs
+
+C:\Users\uddha\OneDrive\Desktop\Stuff\Programming\Rust\guessing_game\target\debug\deps\quote-348ca59260e5f0db.d: C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs
+
+C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\lib.rs:
+C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ext.rs:
+C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\format.rs:
+C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\ident_fragment.rs:
+C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\to_tokens.rs:
+C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\runtime.rs:
+C:\Users\uddha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\quote-1.0.36\src\spanned.rs:
