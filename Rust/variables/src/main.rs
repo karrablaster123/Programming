@@ -1,5 +1,5 @@
 fn main() {
-    let mut x = 5;
+    let mut x: i32 = 5;
     println!("x = {x}");
     x = 6;
     println!("x = {x}");
@@ -11,9 +11,9 @@ fn main() {
 }
 
 fn shadowing() {
-    let x = 5;
+    let x: i32 = 5;
 
-    let x = x + 1;
+    let x: i32 = x + 1;
 
     {
         let x = x * 2;
