@@ -8,16 +8,6 @@ struct IPAddress {
     address: String,
 }
 
-let home = IPAddress {
-    kind: IPAddressKind::V4,
-    address: String::from("127.0.0.1"),
-};
-
-let loopback = IPAddress {
-    kind: IPAddressKind::V6,
-    address: String::from("::1"),
-};
-
 // Simpler Implementation
 
 enum IpAddr {
@@ -25,18 +15,12 @@ enum IpAddr {
     V6(String),
 }
 
-let home = IpAddr::V4(String::from("127.0.0.1"));
-let loopback = IpAddr::V6(String::from("::1"));
-
 // Alternative
 
 enum IpAddr2 {
     V4(u8, u8, u8, u8),
     V6(String),
 }
-
-let home = IpAddr2::V4(127, 0, 0, 1);
-let loopback = IpAddr2::V6(String::from("::1"));
 
 
 fn main() {
@@ -48,4 +32,17 @@ fn main() {
     let y: Option<i8> = Some(5);
     // error: expected type `i8`, found `Option<i8>`
     // let sum = x + y;
+    let home = IPAddress {
+        kind: IPAddressKind::V4,
+        address: String::from("127.0.0.1"),
+    };
+
+    let loopback = IPAddress {
+        kind: IPAddressKind::V6,
+        address: String::from("::1"),
+    };
+    let home = IpAddr::V4(String::from("127.0.0.1"));
+    let loopback = IpAddr::V6(String::from("::1"));
+    let home = IpAddr2::V4(127, 0, 0, 1);
+    let loopback = IpAddr2::V6(String::from("::1"));
 }

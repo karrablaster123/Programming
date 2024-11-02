@@ -1,0 +1,10 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+voila
+python-calamine
+PyQt6
+PySide6
